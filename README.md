@@ -1,3 +1,7 @@
+
+
+    note: You would need root privilege to successfully commit the fan control command to the GPU.
+    
     NVIDIA GPU Fan Monitor + Individual Fan Controller
     GTK3 + C + NVML + Cairo animation
 
